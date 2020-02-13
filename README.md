@@ -1,2 +1,4 @@
 # NLP-Classification-Assignment
-IS465 - Assignment 2
+Julianna Cole
+IS465
+Assignment 2
