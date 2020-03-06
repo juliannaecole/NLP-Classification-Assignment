@@ -1,4 +1,4 @@
 # NLP-Classification-Assignment
-Julianna Cole /
+Julianna Cole & Rhea Pavithran /
 IS465 /
 Assignment 2
